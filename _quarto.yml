@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "taibelongs.github.io"
+  title: "Tai Do"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: lux
+      dark: Solar
     css: styles.css
     toc: true
 
