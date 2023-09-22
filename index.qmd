@@ -1,5 +1,20 @@
 ---
 title: "Tai Do"
+image: TaiDo.jpg
+toc: false
+about: 
+  template: jolla
+  links:
+  - text: Email
+    href: mailto::doxxx078@umn.edu
+  - text: University Program Page
+    href: https://www.cehd.umn.edu/edpsych/research/labs/maruyama/
+  - text: Twitter
+    href: https://twitter.com/TaiTDo
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/tai-do-37195524a
+  - text: Google Scholar
+    href: https://scholar.google.com/citations?user=kAJcm38AAAAJ&hl=en&oi=ao
 ---
 
-Tayler Swift is okay.
+Tayler Swift is okay. Help
