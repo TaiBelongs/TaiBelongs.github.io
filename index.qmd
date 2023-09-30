@@ -5,16 +5,24 @@ toc: false
 about: 
   template: jolla
   links:
-  - text: Email
+  - icon: envelope
+    text: Email
     href: mailto::doxxx078@umn.edu
-  - text: University Program Page
+  - icon: buildings
+    text: University Program Page
     href: https://www.cehd.umn.edu/edpsych/research/labs/maruyama/
-  - text: Twitter
+  - icon: twitter
+    text: Twitter
     href: https://twitter.com/TaiTDo
-  - text: LinkedIn
+  - icon: linkedin
+    text: LinkedIn
     href: https://www.linkedin.com/in/tai-do-37195524a
-  - text: Google Scholar
+  - icon: google
+    text: Google Scholar
     href: https://scholar.google.com/citations?user=kAJcm38AAAAJ&hl=en&oi=ao
+  - icon: file-person
+    text: CV
+    href: https://drive.google.com/file/d/1UndmHcMR0IPb4p5RnG1h2YLhP9olundh/view?usp=sharing
 ---
 
 \*I am still learning how to build my website using Quarto! Sorry for the inconvenience. \*
