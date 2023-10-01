@@ -3,7 +3,7 @@ title: "About Me"
 toc: false
 ---
 
-![](Belongquote.jpg){width="736" height="524"}
+![](Belonging.jpg){fig-align="center"}
 
 ## Quick facts
 
