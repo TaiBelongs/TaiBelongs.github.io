@@ -1,9 +1,22 @@
 ---
-title: "About"
+title: "About Me"
+toc: false
 ---
 
-About this site
+![](Belongquote.jpg){width="736" height="524"}
 
-```{r}
-1 + 1
-```
+## Quick facts
+
+1.  I am a 1.5 generation Vietnamese American immigrant from low-income background, and who is also the first in his family to attend college.
+
+2.  I am a current PhD Candidate within the Psychological Foundations of Education Program in the Department of Educational Psychology at the University of Minnesota Twin Cities. 
+
+3.  I am a mixed- and multi-methods researcher, with knowledge at the intersections of social psychology, education, and educational and psychological measurement.
+
+My research combines \[critical\] education, social psychology, and measurement frameworks and practices to better understand culturally-rich students\' success in college and how to best support that success. In particular, Tai is interested in sense of belonging and the intrapsychic and interpersonal processes that elicit and facilitate college students\' feelings of belonging. His research, teaching, and mentorship are aimed at supporting future student-scholars from intersectional and underserved backgrounds, including but not limited to, students from low-income, first-generation, and/or underrepresented race/ethnic backgrounds.
+
+To read more about me, please visit these links:
+
+-   <https://news.cehd.umn.edu/tai-do-phd-student-awarded-cehd-gage-dissertation-completion-fellowship/>
+
+-   <https://news.cehd.umn.edu/tai-do-phd-student-honored-with-universitys-pslsa-cehds-outstanding-student-service-award/>
