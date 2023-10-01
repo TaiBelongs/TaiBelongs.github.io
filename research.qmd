@@ -1,6 +1,5 @@
 ---
 title: "Research"
-toc: false
 ---
 
 ## Research Endeavors
@@ -8,6 +7,8 @@ toc: false
 My interests intersect psychology, sociology, social psychology, education, and education and psychological measurement. This page will highlight my research endeavors (work-in-progress). Please also visit my [google scholar](https://scholar.google.com/citations?hl=en&user=kAJcm38AAAAJ&view_op=list_works&sortby=pubdate) page for a formal list of my publications.
 
 Notably, in training to become an applied social and educational psychologist and measurement specialist, I receive a great deal of education and support from many mentors. I hope to highlight them on this page so that you receive more nuance on who I am as a researcher, practitioner, and advocate.
+
+For open-access readings and/or conference/workshop proposals, please visit: <https://conservancy.umn.edu/browse?type=author&value=Do,%20Tai>
 
 ## Research Projects
 
