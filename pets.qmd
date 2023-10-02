@@ -1,8 +1,8 @@
 ---
-title: "Beloved Pets"
+title: "Pets I Adore"
 ---
 
-These are the pets you have made an impact on my life, which is all of them and more:
+These are the pets that have made an impact on my life, which is all of them and more:
 
 ## Max
 
@@ -35,6 +35,18 @@ These are the pets you have made an impact on my life, which is all of them and 
 ## Lincoln
 
 ![](Lincoln.jpeg){width="200"}
+
+## Roxy
+
+![](Roxy.jpeg){width="200"}
+
+## Millie
+
+![](Millie.png){width="200"}
+
+## Ikaros
+
+![](Ikaros.jpeg){width="200"}
 
 ## Momo and Toph
 
