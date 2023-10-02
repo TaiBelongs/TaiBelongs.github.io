@@ -2,4 +2,44 @@
 title: "Beloved Pets"
 ---
 
-[***Coming Soon***]{.underline}
+These are the pets you have made an impact on my life, which is all of them and more:
+
+## Max
+
+![](Max.jpeg){width="200"}
+
+## Emma
+
+![](Emma.jpeg){width="200"}
+
+## Huxley
+
+![](Hux.jpeg){width="200"}
+
+## Juniper
+
+![](Jun.jpeg){width="200"}
+
+## Gobi
+
+![](Gobi.jpeg){width="200"}
+
+## Aluxe
+
+![](Aluxe.png){width="200"}
+
+## Luka
+
+![](Luka.jpeg){width="200"}
+
+## Lincoln
+
+![](Lincoln.jpeg){width="200"}
+
+## Momo and Toph
+
+![](MomoToph.jpeg){width="200"}
+
+## Chaacmol and Pinquito
+
+![](ChaacPinq.jpeg){width="200"}
