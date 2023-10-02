@@ -3,7 +3,7 @@ title: "Tai Do"
 image: TaiDo.jpg
 toc: false
 about: 
-  #id: hero-heading
+  id: hero-heading
   template: jolla
   links:
   - icon: envelope
