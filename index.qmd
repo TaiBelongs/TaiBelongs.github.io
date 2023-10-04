@@ -53,3 +53,5 @@ Master of Arts -- Educational Psychology - Emphasis: Social Psychological and De
 
 Bachelor of Arts in Psychology; Bachelor of Arts in Sociology; Applied Psychology in Educational Settings Minor
 :::
+
+This website was build using Quarto, and with help from the following guide by Samantha Csik, [here](https://ucsb-meds.github.io/creating-quarto-websites/#fa-edit-titlepencil-and-paper-where-you-should-start-changing-stuff).
