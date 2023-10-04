@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "Tai Do",
     "section": "",
-    "text": "**This website is still a work-in-progress! Sorry for the inconvenience. **"
+    "text": "**This website is still a work-in-progress! Sorry for the inconvenience. **\nThis website was build using Quarto, and with help from the following guide by Samantha Csik, here."
   },
   {
     "objectID": "index.html#hello",
@@ -201,5 +201,19 @@
     "title": "Pets I Adore",
     "section": "Chaacmol and Pinquito",
     "text": "Chaacmol and Pinquito"
+  },
+  {
+    "objectID": "pets.html#sadie",
+    "href": "pets.html#sadie",
+    "title": "Pets I Adore",
+    "section": "Sadie",
+    "text": "Sadie"
+  },
+  {
+    "objectID": "pets.html#hank-and-iggy",
+    "href": "pets.html#hank-and-iggy",
+    "title": "Pets I Adore",
+    "section": "Hank and Iggy",
+    "text": "Hank and Iggy"
   }
 ]
